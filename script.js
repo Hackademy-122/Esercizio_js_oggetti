@@ -16,7 +16,7 @@
 //             console.log(el.model);
 //         }
 //     })        
-//     return'Non abbiamo questa auto in garage';
+//  return'Non esiste questo tipo di auto nel garage';
 // } 
 // }
 
